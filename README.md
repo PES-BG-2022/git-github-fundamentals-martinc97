@@ -1,4 +1,6 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub @martinc97
+
+Modificado por Martín Cordón
 
 ## 🤓 Course overview and learning outcomes 
 
